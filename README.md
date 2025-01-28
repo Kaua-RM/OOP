@@ -17,3 +17,9 @@ Na programação atual , como forma de resolver problemas lógicos de forma intu
 
 <p> A abstração como citado anteriormente , é uma forma de dividir um problema complexo em várias etapas ou problemas menores , como demonstrado na imagem anterior</p>
 
+### Herança 
+
+<img title="Imagem de peças de computador" width=220 src="https://github.com/Kaua-RM/OOP/blob/main/0_wrxNDC9_W8juLLyl.png">
+
+<p> A herança é </p>
+
