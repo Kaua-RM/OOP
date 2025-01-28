@@ -21,5 +21,5 @@ Na programação atual , como forma de resolver problemas lógicos de forma intu
 
 <img title="Imagem de peças de computador" width=220 src="https://github.com/Kaua-RM/OOP/blob/main/0_wrxNDC9_W8juLLyl.png">
 
-<p> A herança como o nome já indica , é uma forma de herdar alguma caractéristica , no OOP a herança tem um comportamento semelhante , pois as classes "herdam" características de uma classe base, também conhecida como classe pai ou superclasse  </p>
+<p> A herança como o nome já indica , é uma forma de herdar alguma caractéristica , no OOP a herança tem um comportamento semelhante , pois as classes "herdam" características de uma classe base, também conhecida como classe pai ou superclasse , enquanto que a classe que herda é chamada de subclasse. Na imagem acima temos como uma das classes pai "mamífero" , pois é dele que o homem e o cachorro herdam certas caractéristicas.</p>
 
