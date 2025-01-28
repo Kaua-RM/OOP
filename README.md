@@ -27,6 +27,16 @@ Na programação atual , como forma de resolver problemas lógicos de forma intu
 
 <img title="Imagem de peças de computador" width=260 src="https://github.com/Kaua-RM/OOP/blob/main/polimorfismo.png">
 
-<p></p>
+<p>Seguindo oque a imagem indica , o polimorfismo é a ação de ter o mesmo método / comportamento com diferentes funções, assim como a ação de gerar um som, que possui o mesmo sentido só que funciona de maneiras diferentes. Outro exemplo, seria a ação de gravar, um computador grava documentos , enquanto que , uma câmera grava fotos</p>
+
+### Encapsulamento 
+
+<img title="Imagem de peças de computador" width=220 src="https://github.com/Kaua-RM/OOP/blob/main/download.jpg">
+
+<p>Outro pilar com o nome evidente, o encapsulamento é uma forma de proteger as informações. Podemos utilizar a imagem acima como uma forma de representar, pois o encapsulamento nada mais é do que englobar as informações dentro da classe , como uma capsula de remédio em si.</p>
+
+### Interface 
+
+<img title="Imagem de peças de computador" width=220 src="https://github.com/Kaua-RM/OOP/blob/main/Interface.png">
 
 
