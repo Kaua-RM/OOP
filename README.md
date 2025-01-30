@@ -46,7 +46,7 @@ Na programação atual , como forma de resolver problemas lógicos de forma intu
 
 <img title="Imagem de peças de computador" width=220 src="https://github.com/Kaua-RM/OOP/blob/main/Interface.png">
 
-<p>A interface é um tipo de polimorfismo , mas enquanto que o polimorfismo delimita os métodos por meio de sua assinatura existente, a interface não possui isso , não possui um tipo de assinatura específica, além disso , para acessar os métodos da interface é preciso do comando <strong>Implements</strong>  , enquanto que a herança utiliza <strong>extends</strong></p>
+<p>A interface é um tipo de polimorfismo , mas enquanto que o polimorfismo delimita os métodos por meio de sua assinatura existente, a interface não possui isso , não possui um tipo de assinatura específica, pois ela serve como um contrato que toda classe que quer utilizar o método especifico precisa seguir,para acessar os métodos da interface é preciso do comando <strong>Implements</strong>  , enquanto que a herança utiliza <strong>extends</strong></p>
 
 
 
